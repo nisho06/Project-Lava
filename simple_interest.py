@@ -7,3 +7,4 @@ def simple_interest(p,t,r):
       
     print('The Simple Interest is', si) 
     return si 
+#small edit
